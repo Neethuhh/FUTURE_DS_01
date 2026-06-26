@@ -98,4 +98,5 @@ Filters available for **Month** and **Country**.
 
 ## 📄 License
 
-This project is for educational and portfolio purposes.
+This project was completed as part of my **Data Analytics Internship (2026)**.  
+All analysis and visualizations are original work.
